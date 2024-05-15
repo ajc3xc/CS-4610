@@ -1,0 +1,4 @@
+input_file=arg_tests/files/GLTEST0_input.txt
+output_file=arg_tests/outputs/GLTEST0_output.txt
+cargo run --bin=program "$input_file" "$output_file"
+cat "$input_file" cargo run --bin=program

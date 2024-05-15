@@ -1,0 +1,71 @@
+#Getting ghidra installed (windows):
+double clicked on "C:\Users\13144\Documents\CS 4610\pa05_reversing\ghidra_11.0.3_PUBLIC_20240410\ghidra_11.0.3_PUBLIC\ghidraRun.bat"
+
+#installing ghex (linux)
+sudo apt update -y && sudo apt install ghex dbus-x11 -y
+
+ghidra:
+Display Listing
+
+
+#installing gdb
+sudo apt install gdb
+gdb filename.out
+layout next
+start
+nexti - go to next assembly operation
+stepi - go into function call
+exit - exit program
+
+#compiler tool
+https://godbolt.org/
+
+bin01: 
+
+Q1:
+bin_01: e 
+bin_02: c
+bin_03: a
+bin_04: f 
+
+Q2:
+bin_05: b
+bin_06: a
+bin_07: e
+bin_08: f
+
+Q3:
+bin_09: c
+bin_10: c
+bin_11: b
+bin_12: d
+
+Q4:
+a: ** 01 diff, * b: 10 same, c: * 01 diff, d: * 01 same
+bin_13: d
+bin_14: c
+bin_15: b
+bin_16: a
+
+Q5:
+username: admin
+password: adminpass
+code: REVERSING
+
+Q6:
+crash
+
+Q7:
+113
+
+Q8:
+127
+
+Q9:
+bin_21: sequential search
+bin_22: binary search
+bin_23: mean
+
+Q10:
+password: 4610
+secret code: '4610 is fun'

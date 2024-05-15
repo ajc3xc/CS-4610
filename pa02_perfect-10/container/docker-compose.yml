@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  class:
+    image: git-docker-classes.mst.edu/containers/container
+    # uncomment the line below to build the container yourself. If you do, comment the line above.
+    # build: .
+    volumes:
+      - /your/local/volume/:/your_code
+    tty: true
+    stdin_open: true
+    # uncomment this line to give the container a name
+    # container_name: class-container

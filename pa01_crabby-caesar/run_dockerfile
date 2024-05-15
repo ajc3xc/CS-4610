@@ -1,0 +1,1 @@
+sudo docker run --interactive --tty --rm --mount type=bind,source="$(pwd)"/,target=/your_code -w /your_code git-docker-classes.mst.edu/containers/container bash

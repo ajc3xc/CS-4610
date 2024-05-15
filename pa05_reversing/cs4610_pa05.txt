@@ -1,0 +1,43 @@
+1.)
+bin_01.out - e
+bin_02.out - c
+bin_03.out - a
+bin_04.out - f
+
+2.)
+bin_05.out - b
+bin_06.out - a
+bin_07.out - e
+bin_08.out - f
+
+3.)
+bin_09.out - a 
+bin_10.out - c
+bin_11.out - b
+bin_12.out - d
+4.)
+bin_13.out - d
+bin_14.out - c
+bin_15.out - b
+bin_16.out - a
+
+5.)
+password = adminpass
+code = REVERSING
+
+6.)
+crash
+
+7.)
+113
+
+8.)
+127
+
+9.)
+bin_21.out - sequential search
+bin_22.out - binary search
+bin_23.out - mean (average)
+
+10.)
+4610 is fun
